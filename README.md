@@ -18,9 +18,17 @@
 
 <h2>Documentação</h2>
 
-#### Table of contents
-1. Buscar os últimos animes lançados
-2. Buscar por categoria
-3. Buscar os episódios de um anime
-4. Buscar os dados de Streaming de um episódio
-5. Limitações
+### Table of contents
+1. Iniciando
+2. Buscar os dados dos últimos animes lançados
+3. Buscar os dados de animes por categoria
+4. Buscar os dados dos episódios de um anime
+5. Buscar os dados de Streaming de um episódio
+6. Buscar os dados de um anime por keyword
+7. Buscar os dados detalhados de um anime
+8. Limitações
+
+### Antes de iniciar
+A URL Base é esta: `https://appanimeplus.tk/api-achance.php`
+
+### 1. Buscar os dados do últimos animes lançados
