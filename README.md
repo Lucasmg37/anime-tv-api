@@ -15,19 +15,22 @@
 
 <br>
 
-<h2>Documentação</h2>
+## Considerações
+As limitações foram concluídas somente olhando e testando os endpoints do código fonte do aplicativo **portanto pode estar errada.** Então se quiser checar você mesmo, e tentar descobrir se a limitação está incorreta, sinta-se totalmente à vontade, todo o código que utilizei de base está na pasta `/app` deste repositório.
+
+## Documentação
 
 ### Table of contents
 1. Iniciando
 2. Buscar os dados dos últimos animes lançados
 3. Buscar os dados de animes por categoria
-4. Buscar os dados dos episódios de um anime
-5. Buscar os dados de Streaming de um episódio
-6. Buscar os dados de um anime por keyword
-7. Buscar os dados detalhados de um anime
-8. Limitações
+4. Buscar os dados de animes por letra
+5. Buscar os dados dos episódios de um anime
+6. Buscar os dados de Streaming de um episódio
+7. Buscar os dados de um anime por keyword
+8. Buscar os dados detalhados de um anime
 
-### Antes de iniciar
+### 1. Iniciando
 1. Tenha em mente que todas as requisições devem ser feitas usando query params, ou seja, usando o ponto de interrogação, exemplo: `?endpoint=abc`  
 2. A URL de base é esta: `https://appanimeplus.tk/api-achance.php`  
 3. A URL de base das imagens é esta: `https://cdn.appanimeplus.tk/img/`
@@ -37,8 +40,8 @@
 > A URL de base das imagens é a URL das imagens completa, por exemplo, você verá que a API retorna o nome único da imagem, por exemplo: `5bd529d5b07b647a8863cf71e98d651a.jpg`,
 > e então, para poder buscar a imagem, utilize a URL de base + este nome único da imagem, usando o mesmo exemplo, neste caso a URL ficará: `https://cdn.appanimeplus.tk/img/5bd529d5b07b647a8863cf71e98d651a.jpg`
 
-### 1. Buscar os dados do últimos animes lançados
-Para buscar os lançamentos, o endpoint é este:
+### 2. Buscar os dados do últimos animes lançados
+Para buscar os últimos lançamentos, o endpoint é este:
 ```
 https://appanimeplus.tk/api-achance.php?latest
 ```
@@ -60,3 +63,6 @@ Isto irá retornar, no momento em que estou buscando os últimos 30 lançamentos
   { .... }
 ]
 ```
+Limitações: o valor é fixo, você pode buscar apenas 30 e somente os últimos 30 animes lançados.
+
+### 3. Buscar os dados de animes por categoria
