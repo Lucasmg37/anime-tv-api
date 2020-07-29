@@ -6,3 +6,6 @@ Eu não forneço nenhum apoio, não participo da manutenção e nem do desenvolv
 
 ### Sobre a utilização deste repositório
 Eu apenas apliquei um processo simples para descompilar o APK do aplicativo, e com isso estudei o código fonte com intuito único e objetivo de ESTUDO, a utilização destes dados servirá para e somente estudo.
+
+### Conflitos
+Se mesmo assim ainda houver conflitos sobre este repositório, entre em contato comigo (contato disponível no meu perfil) para falarmos sobre.
