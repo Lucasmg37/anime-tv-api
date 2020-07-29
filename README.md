@@ -40,7 +40,7 @@ Para buscar os lançamentos, o endpoint é este:
 https://appanimeplus.tk/api-achance.php?latest
 ```
 Isto irá retornar, no momento em que estou buscando os últimos 30 lançamentos:
-```json
+```js
 [
   {
     "video_id": "433312",
@@ -54,6 +54,6 @@ Isto irá retornar, no momento em que estou buscando os últimos 30 lançamentos
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2 Episodio 04",
     "category_image": "4a61f90089bdb5a4965c92b9b825afc5.jpg"
   },
-  { ... }
+  { .... }
 ]
 ```
