@@ -13,3 +13,14 @@
   <h4>Este repositório tem como e SOMENTE o objetivo de ESTUDO. Eu não sou responsável por nada sobre este aplicativo ou pela sua API, apenas utilizei um simples processo de descompilação neste aplicativo para entender seu funcionamento com objetivo de ESTUDO, <a href="/MORE.md">para saber mais clique aqui</a></h4>
 </blockquote>
 
+<br>
+<br>
+
+<h2>Documentação</h2>
+
+#### Table of contents
+1. Buscar os últimos animes lançados
+2. Buscar por categoria
+3. Buscar os episódios de um anime
+4. Buscar os dados de Streaming de um episódio
+5. Limitações
