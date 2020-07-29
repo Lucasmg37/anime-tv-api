@@ -7,6 +7,6 @@
 
 <blockquote>
   <h2>AVISO IMPORTANTE</h2>
-  <h4>Eu não sou responsável por nada relacionado ao aplicativo nem à este servidor que disponibiliza os dados e nem encorajo ninguém à utilizar essa API para meios de produção. A única coisa que estou disponibilizando é uma documentação básica de uma API Rest JÁ EXISTENTE e operante há anos.</h4>
+  <h4>Este repositório tem como e SOMENTE o objetivo de ESTUDO. Eu não sou responsável por nada sobre este aplicativo ou pela sua API, estou apenas estudando Engenharia Reversa em aplicativo Android, [para saber mais clique aqui](/MORE.md)</h4>
 </blockquote>
 
