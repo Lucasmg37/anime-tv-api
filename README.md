@@ -29,6 +29,31 @@
 8. Limitações
 
 ### Antes de iniciar
-A URL Base é esta: `https://appanimeplus.tk/api-achance.php`
+1. Tenha em mente que todas as requisições devem ser feitas usando query params, ou seja, usando o ponto de interrogação, exemplo: `?endpoint=abc`  
+2. A URL de base é esta: `https://appanimeplus.tk/api-achance.php`  
+
+Portanto, para buscar as informações do anime com ID 389 é feita a requisição: `https://appanimeplus.tk/api-achance.php?info=389`  
 
 ### 1. Buscar os dados do últimos animes lançados
+Para buscar os lançamentos, o endpoint é este:
+```
+https://appanimeplus.tk/api-achance.php?latest
+```
+Isto irá retornar, no momento em que estou buscando os últimos 30 lançamentos:
+```json
+[
+  {
+    "video_id": "433312",
+    "category_id": "33193",
+    "title": "Deca Dence Episodio 04",
+    "category_image": "1a551b7323fefa14d9b4ac09bd73ee49.jpg"
+  },
+  {
+    "video_id": "433311",
+    "category_id": "33184",
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2 Episodio 04",
+    "category_image": "4a61f90089bdb5a4965c92b9b825afc5.jpg"
+  },
+  { ... }
+]
+```
