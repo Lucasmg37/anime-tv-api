@@ -7,6 +7,6 @@
 
 <blockquote>
   <h2>AVISO IMPORTANTE</h2>
-  <h4>Este repositório tem como e SOMENTE o objetivo de ESTUDO. Eu não sou responsável por nada sobre este aplicativo ou pela sua API, estou apenas estudando Engenharia Reversa em aplicativo Android, <a href="/MORE.md">para saber mais clique aqui</a></h4>
+  <h4>Este repositório tem como e SOMENTE o objetivo de ESTUDO. Eu não sou responsável por nada sobre este aplicativo ou pela sua API, apenas utilizei um simples processo de engenharia reversa neste aplicativo para entender seu funcionamento com objetivo de ESTUDO, <a href="/MORE.md">para saber mais clique aqui</a></h4>
 </blockquote>
 
