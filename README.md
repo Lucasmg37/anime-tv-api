@@ -40,7 +40,7 @@ Para buscar os lançamentos, o endpoint é este:
 https://appanimeplus.tk/api-achance.php?latest
 ```
 Isto irá retornar, no momento em que estou buscando os últimos 30 lançamentos:
-```js
+```json
 [
   {
     "video_id": "433312",
