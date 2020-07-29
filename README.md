@@ -34,8 +34,8 @@
 
 > A URL de base é a URL que você utilizará para buscar os dados em JSON
 
-> A URL de base das imagens é a URL das imagens completa, por exemplo, você verá que a API retorna o nome único da imagem, por exemplo: `bd529d5b07b647a8863cf71e98d651a.jpg`,
-> e então, para poder buscar a imagem, utilize a URL de base + este nome único da imagem, usando o mesmo exemplo, neste caso a URL ficará: `https://cdn.appanimeplus.tk/img/bd529d5b07b647a8863cf71e98d651a.jpg`
+> A URL de base das imagens é a URL das imagens completa, por exemplo, você verá que a API retorna o nome único da imagem, por exemplo: `5bd529d5b07b647a8863cf71e98d651a.jpg`,
+> e então, para poder buscar a imagem, utilize a URL de base + este nome único da imagem, usando o mesmo exemplo, neste caso a URL ficará: `https://cdn.appanimeplus.tk/img/5bd529d5b07b647a8863cf71e98d651a.jpg`
 
 ### 1. Buscar os dados do últimos animes lançados
 Para buscar os lançamentos, o endpoint é este:
