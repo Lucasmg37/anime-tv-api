@@ -259,7 +259,7 @@ interface Anime {
 
 <br>
 
-7. Buscar os dados de um anime por keyword
+### 7. Buscar os dados de um anime pelo nome
 Para buscar animes pelo nome, siga estas regras:
 - Nomes em letra minúsculas
 - Remova qualquer acento ou caracter especial e substitua por um espaço vazio
@@ -310,7 +310,7 @@ interface Anime {
 
 <br>
 
-8. Buscar os detalhes de um anime
+### 8. Buscar os detalhes de um anime
 Para buscar os detalhes do anime basta fazer uma requisição para este endpoint usando o ID do anime:
 ```
 https://appanimeplus.tk/api-achance.php?info=ID_DO_ANIME
