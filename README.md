@@ -22,11 +22,11 @@ As limitações foram concluídas somente olhando e testando os endpoints do có
 
 ### Table of contents
 1. [Iniciando](#1-iniciando)
-2. [Buscar os dados dos últimos animes lançados](#2-buscar-os-dados-dos-ultimos-animes-lancados)
+2. [Buscar os dados dos últimos animes lançados](#2-buscar-os-dados-dos-últimos-animes-lancados)
 3. [Buscar os dados de animes por categoria](#3-buscar-os-dados-de-animes-por-categoria)
 4. [Buscar os dados de animes por letra](#4-buscar-os-dados-de-animes-por-letra)
-5. [Buscar os dados dos episódios de um anime](#5-buscar-os-dados-dos-episodios-de-um-anime)
-6. [Buscar os dados de Streaming de um episódio](#6-buscar-os-dados-de-streaming-de-um-episodio)
+5. [Buscar os dados dos episódios de um anime](#5-buscar-os-dados-dos-episódios-de-um-anime)
+6. [Buscar os dados de Streaming de um episódio](#6-buscar-os-dados-de-streaming-de-um-episódio)
 7. [Buscar os dados de um anime pelo nome](#7-buscar-os-dados-de-um-anime-pelo-nome)
 8. [Buscar os detalhes de um anime](#8-buscar-os-detalhes-de-um-anime)
 
