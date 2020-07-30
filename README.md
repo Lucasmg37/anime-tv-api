@@ -63,11 +63,66 @@ Isto irá retornar, no momento em que estou buscando os últimos 30 lançamentos
   { .... }
 ]
 ```
-Limitações: o valor é fixo, você pode buscar apenas 30 e somente os últimos 30 animes lançados.
+
+Explicação da resposta:
+```
+video_id: ID do episódio do anime
+category_id: este ID é usado para buscar a lista de todos os episódios do anime
+category_image: nome único da imagem da capa do anime
+```
+
+Formato do objeto:
+```ts
+interface Episodio {
+  video_id: string,
+  category_id: string,
+  title: string,
+  category_image: string,  
+}
+```
+
+**Limitações: o valor é fixo, você pode buscar apenas 30 e somente os últimos 30 animes lançados.**
 
 ### 3. Buscar os dados de animes por categoria
 Para buscar os animes que se encaixam em uma categoria use o endpoint:
 ```
 https://appanimeplus.tk/api-achance.php?categoria=NOME_DA_CATEGORIA
 ```
-Todas as categorias disponíveis [podem ser vistas neste arquivo.](/CATEGORIAS.md)
+
+A resposta vem no formato:
+```js
+[
+  {
+    "id": "33097",
+    "category_name": "7 Seeds 2 Dublado (Seven Seeds 2 Dublado)",
+    "category_image": "62c1507b8202cd94f44733de18ea736b.jpg"
+  },
+  {
+    "id": "8461",
+    "category_name": "7 Seeds Dublado (Seven Seeds Dublado)",
+    "category_image": "c2839bed26321da8b466c80a032e4714.jpg"
+  },
+  { .... }
+]
+```
+
+```
+id: ID do anime
+category_name: título/nome do anime
+category_image: nome único da imagem da capa do anime
+```
+
+Todas as categorias disponíveis [podem ser vistas neste arquivo.](/CATEGORIAS.md)    
+
+**Limitações: não há paginação, assim como na primeira. Portanto a quantidade de animes da resposta não é fixo, por exemplo, no momento que estou testando, a categoria `dublado` retornou 340 animes; já a categoria `sci-fi` retornou 562.**
+
+### 4. Buscar os dados de animes por letra
+Utilize o endpoint: 
+```
+https://appanimeplus.tk/api-achance.php?letra=QUALQUER_LETRA_OU_UTILIZE_#
+```
+Todas as letras disponíveis são \[A-Z] e também o jogo da velha "#" que simboliza todos os animes que possuem o nome que inicia com um caracter especial
+
+**Limitações: Não há paginação.**
+
+### 5. 
