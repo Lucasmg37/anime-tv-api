@@ -22,13 +22,13 @@ As limitações foram concluídas somente olhando e testando os endpoints do có
 
 ### Table of contents
 1. Iniciando
-2. Buscar os dados dos últimos animes lançados
-3. Buscar os dados de animes por categoria
-4. Buscar os dados de animes por letra
-5. Buscar os dados dos episódios de um anime
-6. Buscar os dados de Streaming de um episódio
-7. Buscar os dados de um anime pelo nome
-8. Buscar os detalhes de um anime
+2. [Buscar os dados dos últimos animes lançados](#buscar-os-dados-dos-ultimos-animes-lancados)
+3. [Buscar os dados de animes por categoria](#buscar-os-dados-de-animes-por-categoria)
+4. [Buscar os dados de animes por letra](#buscar-os-dados-de-animes-por-letra)
+5. [Buscar os dados dos episódios de um anime](#buscar-os-dados-dos-episodios-de-um-anime)
+6. [Buscar os dados de Streaming de um episódio](#buscar-os-dados-de-streaming-de-um-episodio)
+7. [Buscar os dados de um anime pelo nome](#buscar-os-dados-de-um-anime-pelo-nome)
+8. [Buscar os detalhes de um anime](#buscar-os-detalhes-de-um-anime)
 
 ### 1. Iniciando
 1. Tenha em mente que todas as requisições devem ser feitas usando query params, ou seja, usando o ponto de interrogação, exemplo: `?endpoint=abc`  
