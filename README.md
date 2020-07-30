@@ -70,4 +70,4 @@ Para buscar os animes que se encaixam em uma categoria use o endpoint:
 ```
 https://appanimeplus.tk/api-achance.php?categoria=NOME_DA_CATEGORIA
 ```
-Todas as categorias disponíveis podem ser lidas neste arquivo CATEGORIAS.txt
+Todas as categorias disponíveis [podem ser vistas neste arquivo.](/CATEGORIAS.md)
