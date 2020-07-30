@@ -249,7 +249,7 @@ locationsd: URL do vídeo em qualidade HD (A maioria dos animes não possui esse
 
 Formato da resposta:
 ```ts
-interface Anime {
+interface Stream {
   video_id: string,
   category_id: string,
   location: string,
@@ -339,11 +339,14 @@ category_name: título/nome do anime
 category_image: nome único da imagem da capa do anime (pode retornar 404, a API é inconsistente)
 category_description: a sinopse do anime
 category_genres: os gêneros do anime separado por vírgula dentro de uma string
+ano: ano do anime
+count: ???????
+off: ???????
 ```
 
 Formato da resposta:
 ```ts
-interface Anime {
+interface Detalhes {
   id: string,
   category_name: string,
   category_image: string,
