@@ -21,7 +21,7 @@ As limitações foram concluídas somente olhando e testando os endpoints do có
 ## Documentação
 
 ### Table of contents
-1. Iniciando
+1. [Iniciando](#iniciando)
 2. [Buscar os dados dos últimos animes lançados](#buscar-os-dados-dos-ultimos-animes-lancados)
 3. [Buscar os dados de animes por categoria](#buscar-os-dados-de-animes-por-categoria)
 4. [Buscar os dados de animes por letra](#buscar-os-dados-de-animes-por-letra)
@@ -42,7 +42,7 @@ As limitações foram concluídas somente olhando e testando os endpoints do có
 
 <br>
 
-### 2. Buscar os dados do últimos animes lançados
+### 2. Buscar os dados dos últimos animes lançados
 Para buscar os últimos lançamentos, o endpoint é este:
 ```
 https://appanimeplus.tk/api-achance.php?latest
