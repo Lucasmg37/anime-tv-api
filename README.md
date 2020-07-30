@@ -40,6 +40,8 @@ As limitações foram concluídas somente olhando e testando os endpoints do có
 > A URL de base das imagens é a URL das imagens completa, por exemplo, você verá que a API retorna o nome único da imagem, por exemplo: `5bd529d5b07b647a8863cf71e98d651a.jpg`,
 > e então, para poder buscar a imagem, utilize a URL de base + este nome único da imagem, usando o mesmo exemplo, neste caso a URL ficará: `https://cdn.appanimeplus.tk/img/5bd529d5b07b647a8863cf71e98d651a.jpg`
 
+<br>
+
 ### 2. Buscar os dados do últimos animes lançados
 Para buscar os últimos lançamentos, o endpoint é este:
 ```
@@ -71,7 +73,7 @@ category_id: este ID é usado para buscar a lista de todos os episódios do anim
 category_image: nome único da imagem da capa do anime
 ```
 
-Formato do objeto:
+Formato da resposta:
 ```ts
 interface Episodio {
   video_id: string,
@@ -82,6 +84,8 @@ interface Episodio {
 ```
 
 **Limitações: o valor é fixo, você pode buscar apenas 30 e somente os últimos 30 animes lançados.**
+
+<br>
 
 ### 3. Buscar os dados de animes por categoria
 Para buscar os animes que se encaixam em uma categoria use o endpoint:
@@ -106,15 +110,27 @@ A resposta vem no formato:
 ]
 ```
 
+Explicação da resposta:
 ```
 id: ID do anime
 category_name: título/nome do anime
-category_image: nome único da imagem da capa do anime
+category_image: nome único da imagem da capa do anime (pode retornar 404, a API é inconsistente)
+```
+
+Formato da resposta:
+```ts
+interface Anime {
+  id: string,
+  category_name: string,
+  category_image: string,
+}
 ```
 
 Todas as categorias disponíveis [podem ser vistas neste arquivo.](/CATEGORIAS.md)    
 
 **Limitações: não há paginação, assim como na primeira. Portanto a quantidade de animes da resposta não é fixo, por exemplo, no momento que estou testando, a categoria `dublado` retornou 340 animes; já a categoria `sci-fi` retornou 562.**
+
+<br>
 
 ### 4. Buscar os dados de animes por letra
 Utilize o endpoint: 
