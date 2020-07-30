@@ -174,6 +174,8 @@ interface Anime {
 
 **Limitações: Não há paginação.**
 
+<br>
+
 ### 5. Buscar os dados dos episódios de um anime
 Para buscar os dados dos episódios de um anime, você precisa do ID deste anime, se não tem, obtenha ele utilizando algum dos endpoints anteriores. Com o ID do anime em mãos, use o endpoint: 
 ```
@@ -201,7 +203,7 @@ Explicação da resposta:
 ```
 video_id: ID do episódio
 category_id: ID do anime na qual o episódio pertence
-title: Título/Nome do episódio
+title: título/Nome do episódio
 ```
 
 Formato da resposta:
@@ -214,6 +216,8 @@ interface Anime {
 ```
 
 **Limitações: Não há paginação.**
+
+<br>
 
 ### 6. Buscar os dados de Streaming de um episódio
 Os "dados de Streaming" contém os dados da URL do vídeo do episódio, em algum formato de vídeo. Para buscar estes dados, utilize o endpoint:
@@ -253,11 +257,14 @@ interface Anime {
 }[]
 ```
 
+<br>
+
 7. Buscar os dados de um anime por keyword
 Para buscar animes pelo nome, siga estas regras:
 - Nomes em letra minúsculas
 - Remova qualquer acento ou caracter especial e substitua por um espaço vazio
-- E então agora remova todos os espaços vazios por underline
+- E então agora remova todos os espaços vazios por underline  
+
 E então utilize o endpoint:
 ```
 https://appanimeplus.tk/api-achance.php?search=NOME_DO_ANIME
@@ -298,5 +305,49 @@ interface Anime {
   id: string,
   category_name: string,
   category_image: string,
+}[]
+```
+
+<br>
+
+8. Buscar os detalhes de um anime
+Para buscar os detalhes do anime basta fazer uma requisição para este endpoint usando o ID do anime:
+```
+https://appanimeplus.tk/api-achance.php?info=ID_DO_ANIME
+```
+
+O retorno da requisição:
+```js
+[
+  {
+    "id": "389",
+    "category_name": "Steins;Gate",
+    "category_image": "c86a7ee3d8ef0b551ed58e354a836f2b.jpg",
+    "category_description": "Steins;Gate se passa no Verão de 2010, aproximadamente um ano após os acontecimentos que tiveram lugar em Chaos;Head, em Akihabara. Steins;Gate é sobre um grupo de amigos que personalizaram seus microondas num dispositivo que pode enviar mensagens de texto para o passado. Como eles realizam experiências diferentes, uma organização chamada Sern que vem a fazer sua própria pesquisa sobre viagem no tempo descobre sobre o grupo e agora os personagens têm de encontrar uma maneira de não serem capturados.",
+    "category_genres": "Sci-Fi, Suspense",
+    "ano": "2011",
+    "count": "512",
+    "off": "0"
+  }
+]
+```
+
+Explicação da resposta:
+```
+id: ID do anime
+category_name: título/nome do anime
+category_image: nome único da imagem da capa do anime (pode retornar 404, a API é inconsistente)
+category_description: a sinopse do anime
+category_genres: os gêneros do anime separado por vírgula dentro de uma string
+```
+
+Formato da resposta:
+```ts
+interface Anime {
+  id: string,
+  category_name: string,
+  category_image: string,
+  category_description: string,
+  category_genres: string,
 }[]
 ```
