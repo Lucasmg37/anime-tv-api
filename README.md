@@ -66,3 +66,8 @@ Isto irá retornar, no momento em que estou buscando os últimos 30 lançamentos
 Limitações: o valor é fixo, você pode buscar apenas 30 e somente os últimos 30 animes lançados.
 
 ### 3. Buscar os dados de animes por categoria
+Para buscar os animes que se encaixam em uma categoria use o endpoint:
+```
+https://appanimeplus.tk/api-achance.php?categoria=NOME_DA_CATEGORIA
+```
+Todas as categorias disponíveis podem ser lidas neste arquivo CATEGORIAS.txt
