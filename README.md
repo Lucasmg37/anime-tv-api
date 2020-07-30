@@ -352,5 +352,8 @@ interface Detalhes {
   category_image: string,
   category_description: string,
   category_genres: string,
+  ano: string,
+  count: string,
+  off: string,
 }[]
 ```
