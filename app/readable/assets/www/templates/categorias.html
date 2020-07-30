@@ -1,0 +1,50 @@
+<ion-view title="{{titulo}}">
+    <ion-content padding="false" class="has-header">
+        <ion-list ng-show="pag == 'categorias'">
+            <ion-item ui-sref="animescategoria({cat: 'Aventura'})">Aventura</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Acao'})">Ação</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Comedia'})">Comédia</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Drama'})">Drama</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Dublado'})">Dublado</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Ecchi'})">Ecchi</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Escolar'})">Escolar</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Esporte'})">Esporte</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Fantasia'})">Fantasia</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Filme'})">Filme</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Harem'})">Harem</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Historico'})">Histórico</ion-item>
+			<ion-item ui-sref="animescategoria({cat: 'Jogo'})">Jogo</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Josei'})">Josei</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Magia'})">Magia</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Mecha'})">Mecha</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Militar'})">Militar</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Misterio'})">Mistério</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'OVA'})">OVA</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Poderes'})">Poderes</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Psicologico'})">Psicológico</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Romance'})">Romance</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Samurai'})">Samurai</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Sci-Fi'})">Sci-Fi</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Seinen'})">Seinen</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Shoujo'})">Shoujo</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Shounen'})">Shounen</ion-item>
+            <!--<ion-item ui-sref="animescategoria({cat: 'Aventura'})">Shõen'ai</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Shoujo-ai'})">Shoujo-ai</ion-item-->
+            <ion-item ui-sref="animescategoria({cat: 'Slice of Life'})">Slice of Life</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Sobrenatural'})">Sobrenatural</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Suspense'})">Suspense</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Terror'})">Terror</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Yaoi'})">Yaoi</ion-item>
+            <ion-item ui-sref="animescategoria({cat: 'Yuri'})">Yuri</ion-item>			
+        </ion-list>
+
+
+
+    <div ng-show="pag == 'calendario'">
+
+       <div ng-bind-html="calendario.msg"></div>
+
+    </div>
+	
+    </ion-content>
+</ion-view>

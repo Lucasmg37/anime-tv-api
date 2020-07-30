@@ -1,0 +1,12 @@
+<ion-view title="Populares">    
+    <ion-content padding="false" class="has-header">
+    
+        <ion-list>
+            <ion-item class="item-thumbnail-left item-text-wrap" ng-repeat="anime in populares" ui-sref="animeinfo({id: anime.id})">
+                <img ng-src="https://cdn.appanimeplus.tk/img/{{::anime.category_image}}" />
+                {{::anime.category_name}}
+            </ion-item>
+        </ion-list>
+    
+    </ion-content>
+</ion-view>

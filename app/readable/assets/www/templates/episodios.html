@@ -1,0 +1,44 @@
+<ion-view title="Assistir" id="page7">
+
+  <ion-nav-buttons side="secondary">
+    <button class="button button-icon icon ion-chevron-left" ng-click="previous(episodio[0].video_id, episodio[0].category_id)"></button>
+    <button class="button button-icon icon ion-chevron-right" ng-click="next(episodio[0].video_id, episodio[0].category_id)"></button>
+    <button class="button button-icon icon ion-eye" ng-show="toggle" ng-click="assistir(episodio[0], episodio[0].video_id)"></button>
+    <button class="button button-icon icon ion-eye-disabled" ng-show="!toggle" ng-click="assistir(episodio[0], episodio[0].video_id)"></button>
+    <button class="button button-icon icon ion-alert" ng-click="reportar(episodio[0].video_id)"></button>
+    <button class="button button-icon icon ion-information-circled" ui-sref="animeinfo({id: episodio[0].category_id})"></button>	
+  </ion-nav-buttons>
+
+    <ion-content padding="true" class="has-header">
+
+    <p>Em caso de problemas para assistir algum video, consulte a nossa <a ui-sref="faq">faq</a> ou entre em contato com nosso <a ui-sref="suporte">suporte</a>. 
+
+    <p><b>ATENÇÃO: Para baixar videos você precisa abri-los com o seu navegador dar play e pressionar o dedo sobre ele e selecionar a opção salvar, você também pode usar o Advanced Download Manager, SnapTube ou outros aplicativos que aparecerem na lista, inclusive player externo como o MX Player.</b></p>
+
+    <p><b>{{episodio[0].title}}</b></p>
+
+        <button class="button icon ion-play button-block button-energized" ng-click="abrir(episodio[0].location)"> Assistir</button>
+
+
+        <div ng-if="episodio[0].locationsd">
+            <button class="button icon ion-play button-block button-balanced" ng-click="abrir(episodio[0].locationsd)"> Assistir HD</button>
+        </div>
+
+        <button class="button icon ion-eye button-block button-assertive" ng-click="assistir(episodio[0], episodio[0].video_id)">{{toggle && ' Marcar como Visto' || ' Marcar como nao Visto'}}</button>           
+
+    <p><b>Player Externo:</b></p>
+
+        <button class="button icon ion-android-download button-block button-calm" ng-click="opensys(episodio[0].location)">
+            Play/Download
+        </button> 
+
+        <div ng-if="episodio[0].locationsd">
+            <button class="button icon ion-android-download button-block button-royal" ng-click="opensys(episodio[0].locationsd)">
+                Play/Download HD
+            </button> 
+        </div>
+
+        <br /><br /><br />
+
+    </ion-content>    
+</ion-view>

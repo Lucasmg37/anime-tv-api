@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <script src="lib/ionic/js/ionic.bundle.min.js"></script>
+
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <!-- compiled css output -->
+    <link href="css/ionic.app.black.css" rel="stylesheet">
+    
+    <script src="js/app.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/services.js"></script>
+	<link rel="stylesheet" href="lib/ionic-filter-bar/dist/ionic.filter.bar.min.css">
+	<script src="lib/ionic-filter-bar/dist/ionic.filter.bar.min.js"></script>
+
+	<!--<script src="lib/ionicuirouter/ionicUIRouter.js"></script>-->
+
+  </head>
+  <body ng-app="app" animation="slide-left-right-ios7" class="platform-android platform-cordova platform-webview">
+  <div>
+    <ion-side-menus enable-menu-with-back-views="false" data-componentid="side-menu21">
+        <ion-side-menu-content>
+            <ion-nav-bar class="bar-dark">
+                <ion-nav-back-button></ion-nav-back-button>
+                <ion-nav-buttons side="left">
+                    <button class="button button-icon button-clear ion-navicon" menu-toggle="left"></button>
+                </ion-nav-buttons>
+            </ion-nav-bar>
+            <ion-nav-view></ion-nav-view>
+        </ion-side-menu-content>
+        <ion-side-menu side="left" id="side-menu21">
+            <ion-header-bar class="bar-dark">
+                <div class="title">Menu</div>
+            </ion-header-bar>
+            <ion-content padding="false" class="side-menu-left has-header" style="background-color:#444444;">
+                <ion-list data-componentid="list1">
+                </ion-list>
+                <ion-list data-componentid="list2">
+                    <ion-item class="item-icon-left item-dark" ui-sref="lancamentos" menu-close="">
+                        <i class="icon ion-android-home"></i>Lancamentos</ion-item>
+                    
+                    <ion-item class="item-icon-left item-dark" ui-sref="letras" menu-close="">
+                        <i class="icon ion-ios-videocam"></i>Animes</ion-item>
+
+                    <ion-item class="item-icon-left item-dark" ui-sref="pesquisar" menu-close="">
+                        <i class="icon ion-search item-dark"></i>Pesquisar</ion-item>
+
+                    <ion-item class="item-icon-left item-dark" ui-sref="noticias" menu-close="">
+                        <i class="icon ion-information"></i>Noticias</ion-item>
+                    
+                     <ion-item class="item-icon-left item-dark" ui-sref="categorias({pag: 'categorias'})" menu-close="">
+                        <i class="icon ion-navicon-round"></i>Categorias</ion-item>
+ 
+                     <ion-item class="item-icon-left item-dark" ui-sref="categorias({pag: 'calendario'})" menu-close="">
+                        <i class="icon ion-calendar"></i>Calendario</ion-item>
+ 
+                    <ion-item class="item-icon-left item-dark" ui-sref="populares" menu-close="">
+                        <i class="icon ion-star"></i>Populares</ion-item>
+
+                    <ion-item class="item-icon-left item-dark" ui-sref="dublados" menu-close="">
+                        <i class="icon ion-speakerphone"></i>Dublados</ion-item>
+
+                    <ion-item class="item-icon-left item-dark" ui-sref="favoritos" menu-close="">
+                        <i class="icon ion-heart"></i>Favoritos</ion-item>
+
+                    <ion-item class="item-icon-left item-dark" ui-sref="assistidos" menu-close="">
+                        <i class="icon ion-ios-eye-outline"></i>Assistidos</ion-item>
+                    
+                    <ion-item class="item-icon-left item-dark" ui-sref="suporte" menu-close="">
+                        <i class="icon ion-help-buoy"></i>Suporte</ion-item>
+                    
+                    <ion-item class="item-icon-left item-dark" ui-sref="faq" menu-close="">
+                        <i class="icon ion-ios-help-outline"></i>FAQ</ion-item>
+                </ion-list>
+            </ion-content>
+        </ion-side-menu>
+    </ion-side-menus>
+
+</div>
+
+  
+  </body>
+</html>

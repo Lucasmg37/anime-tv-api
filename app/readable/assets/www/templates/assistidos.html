@@ -1,0 +1,15 @@
+<ion-view title="Assistidos" id="page37" cache-view="false">    
+    <ion-content padding="false" class="has-header">
+	
+        <ion-list>
+            <ion-item class="item-text-wrap" ng-repeat="anime in assistidos | orderBy:'-'" ui-sref="episodios({id: anime.video_id})">
+                <h2>{{::anime.title}}</h2>
+            </ion-item>
+        </ion-list>
+
+        <p ng-if="!assistidos">
+        	Nenhum episodio foi marcado como assistido.
+        </p>
+    
+    </ion-content>
+</ion-view>

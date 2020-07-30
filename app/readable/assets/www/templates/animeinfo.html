@@ -1,0 +1,51 @@
+<ion-view title="Anime Info" id="page6">
+
+  <ion-nav-buttons side="secondary">
+    <button class="button button-icon icon ion-ios-search-strong" ng-click="showFilterBar()">
+    </button>
+  </ion-nav-buttons>
+
+    <ion-content padding="false" class="has-header" overflow-scroll="true">
+       
+        
+<div class="list card">
+
+  <div class="item item-avatar item-text-wrap">
+    <img ng-src="https://cdn.appanimeplus.tk/img/{{animeinfo[0].category_image}}">
+    <h2>{{animeinfo[0].category_name}}</h2>
+    <p>{{animeinfo[0].ano}}</p>
+  </div>
+
+  <div class="item item-body">
+    <p>
+      {{animeinfo[0].category_description}}
+    </p>
+    <p>
+      Generos: {{animeinfo[0].category_genres}}
+    </p>
+    <p ng-show="animeinfo[0].obs != ''">
+      Observações: {{animeinfo[0].obs}}
+    </p>
+    <p>
+        <button class="button icon-left ion-heart button-assertive" ng-click="favoritar(animeinfo[0], animeinfo[0].id)">{{toggle && 'Favoritar' || 'Remover'}}</button>
+    </p>
+  </div>
+
+</div>
+
+<p><b>Dica: Voce pode usar a lupa acima para encontrar o episodio desejado sem percorrer toda a lista, por exemplo para encontrar o episodio numero 100 pressione na lupa e digite 100.</b></p>
+      
+        <ion-list>
+            <ion-item class="item-text-wrap" ng-repeat="anime in animes" ui-sref="episodios({id: anime.video_id})">
+                <h2>{{::anime.title}}</h2>
+            </ion-item>
+        </ion-list>
+
+        <div ng-show="animes == null" style="margin:10px">
+          <p>
+            Parece que não há episódios disponiveis para esse anime, ajude-nos a atualiza-lo, fale com nosso <a ui-sref="suporte">suporte</a>
+          </p>
+        </div>
+        
+    </ion-content>
+</ion-view>

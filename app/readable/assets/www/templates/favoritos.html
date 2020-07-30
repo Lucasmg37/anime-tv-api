@@ -1,0 +1,16 @@
+<ion-view title="Favoritos" id="page37" cache-view="false">
+    <ion-content padding="false" class="has-header">
+	
+        <ion-list>
+            <ion-item class="item-thumbnail-left item-text-wrap" ng-repeat="anime in favoritos | orderBy:'category_name'" ui-sref="animeinfo({id: anime.id})">
+                <img ng-src="https://cdn.appanimeplus.tk/img/{{anime.category_image}}" />
+                <h2>{{anime.category_name}}</h2>
+            </ion-item>
+        </ion-list>
+
+        <p ng-if="!favoritos">
+        	Nenhum anime foi adicionado como favorito.
+        </p>
+    
+    </ion-content>
+</ion-view>

@@ -1,0 +1,955 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: ujHnyPaRMIlvsE5wiPU0CRR0ODI=
+SHA1-Digest-Manifest: Qfle69RBvx/wwHXJ9CNlhdzCU4o=
+Created-By: 1.8.0_131 (Oracle Corporation)
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: DRPP2iMDwhSlVa+IjZhXroEXmYg=
+
+Name: res/drawable-mdpi-v4/exo_controls_shuffle.png
+SHA1-Digest: UfjTZxu+Id6qvwmJDXxfWhBX43U=
+
+Name: assets/www/templates/pesquisar.html
+SHA1-Digest: +ORQAVDyWUKW4jLm9rojcbm6D+E=
+
+Name: res/drawable-xhdpi-v4/exo_controls_shuffle.png
+SHA1-Digest: DrR9AxjolNumCu7OKq/GTUSE2gY=
+
+Name: res/drawable/next.png
+SHA1-Digest: tMYFC89jd7j2Z9dTUIuvA2j5OiM=
+
+Name: res/drawable-port-xxxhdpi-v4/screen.png
+SHA1-Digest: mNIjzZ3RsQU3GtpoMm8RnH3j164=
+
+Name: res/drawable-anydpi-v21/exo_controls_pause.xml
+SHA1-Digest: iWuKFOiLb7AiwJCRCwz8r72WyeI=
+
+Name: assets/www/templates/suporte.html
+SHA1-Digest: 1AOrWrGFyy1U1nZoM4DK+kk196o=
+
+Name: assets/www/lib/ionic/scss/_list.scss
+SHA1-Digest: CPmwqd1ovffh5q2FiqQA5u8zdOk=
+
+Name: META-INF/services/com.google.protobuf.GeneratedExtensionRegistry
+ Loader
+SHA1-Digest: 6fKU/XHf8tB1pKlTCCOyzWN6yvk=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA1-Digest: RngXD20R+r7b/FmItiVuALBafpM=
+
+Name: assets/www/lib/ionic/js/ionic.bundle.js
+SHA1-Digest: ZTFQsTH3NrhXPINRudDKts6n9lQ=
+
+Name: res/layout-v17/onesignal_bgimage_notif_layout.xml
+SHA1-Digest: cUIfKSTVsEw5y46AiVAL/ATC9nY=
+
+Name: assets/www/plugins/cordova-promise-polyfill/www/promise.min.js
+SHA1-Digest: BqebEfPQ+YoayDZcuPDli7NbNCM=
+
+Name: assets/www/lib/ionic-filter-bar/dist/ionic.filter.bar.min.css
+SHA1-Digest: 4HAOtyl6pL89yRY7+KsAXbgnUrw=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: OOefFpggagskOSa29mfgruzOhPQ=
+
+Name: assets/www/lib/ionic/scss/_spinner.scss
+SHA1-Digest: w8svjUQTtmjC8U7C3d1e0lFD48M=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: j8RuzNZdC4eBMEufaTGc/3vN81k=
+
+Name: assets/www/templates/faq.html
+SHA1-Digest: ay+I5zM0JidEHBLwlrGwT8+HX2M=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: G1uzqQ7UaV7jhbp84LRK1WGbP3Q=
+
+Name: assets/www/lib/ionic/scss/_menu.scss
+SHA1-Digest: e5e/sQ+i16hHnx2HwHQpcxyDz74=
+
+Name: assets/www/plugins/cordova-plugin-exoplayer/www/exoplayer.js
+SHA1-Digest: Kin/ojuZ3e0eKOwtimfC/dOO+Es=
+
+Name: res/drawable-anydpi-v21/exo_controls_repeat_off.xml
+SHA1-Digest: aWjcbc0NHpykQzPuEPtsOwzOVxY=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: Vo521pYDw4KwN95A6BM0vPKfHWU=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: DyNoltEL4yj1M0KRnp7t1ESe+Fo=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: 6HB8BDiwC2eH+kE8Bn6WlVsYSVY=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: mOFYr7JpqXJjbnnAvdlydWq7jRQ=
+
+Name: assets/www/lib/ionic/scss/_backdrop.scss
+SHA1-Digest: m07hEvSWLEogySDspWPT4LAatOE=
+
+Name: assets/www/lib/ionic/scss/_slides.scss
+SHA1-Digest: TTo9JIgYXMcmbX2d5Rh1UPZptpU=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: yi4bE0DYoQspou9NVj58jrO6Xug=
+
+Name: res/layout/exo_playback_control_view.xml
+SHA1-Digest: 0pZ9yHzA7xBNOL7P9HRqhiEj+2o=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: ahL1IX+Xa3VHwxUrKeuJQsGU4Rs=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_rewind.png
+SHA1-Digest: bfy9EkZTTar8zTgIFAw//mdGKcc=
+
+Name: resources.arsc
+SHA1-Digest: 9ywYtPqEt8xD6uLg5z9VX+hfs+A=
+
+Name: assets/www/lib/ionic-filter-bar/scss/ionic.filter.bar.scss
+SHA1-Digest: l+OJloXVCDhM/RNzhzK02bDcUgE=
+
+Name: assets/www/lib/ionic/scss/_range.scss
+SHA1-Digest: X2pSmVnBQWlQB5fl+W3rtvhtIHE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XTl+l0TgWH3ApK2lOz6nKMNF3yQ=
+
+Name: assets/www/lib/ionic/scss/_items.scss
+SHA1-Digest: +D/9hAaohtc9CPTBpbnIqseFi/U=
+
+Name: assets/www/plugins/cordova-plugin-admob-free/www/admob.js
+SHA1-Digest: TfhfpOU+Zx60t/61DIzUKtGd1oY=
+
+Name: assets/www/service-worker.js
+SHA1-Digest: 1pZU8uwfEiDlmIf7yTI5RToCP/U=
+
+Name: assets/www/lib/ionic/scss/tsconfig.json
+SHA1-Digest: zldbhiilCqwUVn4/EJ3UjNk/RaQ=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: 38WtpiAj5vmsHOuyTUe8kYOXH14=
+
+Name: res/drawable-ldpi-v4/exo_controls_play.png
+SHA1-Digest: v24wW8JQAEAuoMqXLwiZyyclqnA=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_previous.png
+SHA1-Digest: ZohhixnYoVE6O/pVyWGF4B/QkMo=
+
+Name: res/xml/config.xml
+SHA1-Digest: EPE1YlYXbGz6Um8VPLrqC1mc+pc=
+
+Name: res/drawable-hdpi-v4/exo_controls_repeat_one.png
+SHA1-Digest: 3bGmS2k9Fiy48dIGqcij7D5vS/I=
+
+Name: res/drawable-mdpi-v4/exo_controls_repeat_one.png
+SHA1-Digest: IEFc9ejq0Lm16HwnmTqR+oGJ2Jk=
+
+Name: res/drawable-xhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: e7uiUskVY+4Kajm/IyaylNK5oVg=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l_background.9.png
+SHA1-Digest: 81UFBFWRhIAFzlz7E4Dq3TLKdK0=
+
+Name: META-INF/com.android.support_support-fragment.version
+SHA1-Digest: YvWiR2dsisPkYAXU8wBtPTFrgUE=
+
+Name: res/drawable-xhdpi-v4/ic_os_notification_fallback_white_24dp.png
+SHA1-Digest: MoiPZjcMpCYyxZwJxmNMoQsywX4=
+
+Name: res/drawable-mdpi-v4/exo_controls_pause.png
+SHA1-Digest: hd9xAFRkZl6uSHUMF4KSXEJ+/jM=
+
+Name: assets/www/manifest.json
+SHA1-Digest: cVapu2FtAizoRx8FZnFXtI4WB/w=
+
+Name: res/drawable-ldpi-v4/exo_controls_rewind.png
+SHA1-Digest: kzKH4hFZEKffT7JcHDCmV/PA+qo=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: e3LBNjD7qx/P2ADJrhGYMpZZVrw=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: sIx3iKzGfmwa8avF2pkjevxnzBM=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-variables.scss
+SHA1-Digest: BltFMSeoISfXfVgNOaF5rJhh5FQ=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: skfmh8AKXvj2Y90RQYRWGn6cYvs=
+
+Name: assets/www/plugins/cordova-plugin-screen-orientation/www/screeno
+ rientation.js
+SHA1-Digest: JMVsFoQ1J9OGtQ6a7FsLK7kkYRU=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_
+ background.9.png
+SHA1-Digest: 3I2mFd+rDNL03uvYwrNS4l2B1Nk=
+
+Name: assets/www/lib/ionic/js/ionic-angular.js
+SHA1-Digest: ULu/5DVk/nejPNQwl9aaFr7kRH0=
+
+Name: assets/www/lib/ionic/scss/_radio.scss
+SHA1-Digest: KTrx/nt0kAksso1qAKnhf68IAgQ=
+
+Name: assets/www/templates/animes.html
+SHA1-Digest: 5pPjOcBcP/XVGbOhYsnvETZVk4k=
+
+Name: res/drawable-mdpi-v4/exo_controls_repeat_off.png
+SHA1-Digest: nKJIP1vfX7tGFjpXSI6GY5nCCJg=
+
+Name: assets/www/lib/ionic/css/ionic.css
+SHA1-Digest: KbLzgxmOgpNc0aLKfFcRnsCwmSo=
+
+Name: assets/www/plugins/es6-promise-plugin/www/promise.js
+SHA1-Digest: tO4c9mOhsPzF3tTZvWZ2Yqf703s=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: c0R+PIEr0jCakdrjZwfqfB+fYFg=
+
+Name: res/raw/consumer_onesignal_keep.xml
+SHA1-Digest: rvBB5Zh/7pVO6Iu8y8Yk6+l9CCc=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: UiiD34AgG1av6xG9P6/srd15hr8=
+
+Name: assets/www/lib/ionic/fonts/ionicons.ttf
+SHA1-Digest: 4N8ZcikRufBkLWw63l8S6gQH2SU=
+
+Name: res/drawable-hdpi-v4/exo_controls_repeat_off.png
+SHA1-Digest: asx8B1/eQc0ESaRVcho34dlGk04=
+
+Name: res/drawable-mdpi-v4/exo_edit_mode_logo.png
+SHA1-Digest: mksXvUoBaRvmVaDVGmBIb/jOKmw=
+
+Name: res/drawable-ldpi-v4/exo_controls_fastforward.png
+SHA1-Digest: QwATIUN/zkKB9i8dnxLgggCy6wE=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_shuffle.png
+SHA1-Digest: Yvfk6wYaxY6v2jNhhZSxDN+QHeo=
+
+Name: assets/www/css/ionic.app.min.css
+SHA1-Digest: eVvqHgfK/od45cyWJR2aRZHY1PE=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-icons.scss
+SHA1-Digest: /8Vnzz3lLn9G6J2oEzbr5fHffgg=
+
+Name: assets/www/plugins/cordova-promise-polyfill/www/Promise.js
+SHA1-Digest: 62iPnKRTxh/CMGuNlEkAIWtX+ms=
+
+Name: res/drawable-ldpi-v4/exo_controls_repeat_off.png
+SHA1-Digest: f8cR3c+oyHoxV/7f8Zyxb75HMeg=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: HfEtCgA0DUcEYEHjBpHgvjM3sys=
+
+Name: assets/www/cordova.js
+SHA1-Digest: GialCV0bjZU4i3emjXso05Kop9w=
+
+Name: assets/www/lib/ionic-filter-bar/dist/ionic.filter.bar.css
+SHA1-Digest: 2V6nn54nLUYjrllV0yL+HX5qfPk=
+
+Name: assets/www/lib/ionic/bower.json
+SHA1-Digest: fjwGnAi+OwJIxKe2MKy6sIzK/Cg=
+
+Name: res/drawable-xhdpi-v4/exo_controls_next.png
+SHA1-Digest: HeHTWlAutUoG9EWUcYH7lDH2Fn8=
+
+Name: res/drawable-ldpi-v4/exo_controls_next.png
+SHA1-Digest: eGd3UtUL6YeWPayZSsEg3B7aO60=
+
+Name: res/mipmap-ldpi-v4/icon.png
+SHA1-Digest: GQ8dpvjvUk8rSBOpBxFGgxXRLE8=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: 7JST148sP72xooakev+9vTqchao=
+
+Name: assets/www/templates/noticias.html
+SHA1-Digest: 2p64TIo+MoDM1QeMtPB7Wz2nCmA=
+
+Name: assets/www/templates/categorias.html
+SHA1-Digest: GiE60fB4UkXAENqSp4QuWTTYkPQ=
+
+Name: res/drawable-mdpi-v4/exo_controls_play.png
+SHA1-Digest: laDRZR24E2j2r59VqzD3r8Z/meM=
+
+Name: assets/www/lib/ionic/scss/ionic.scss
+SHA1-Digest: 80B6xNbKZoQ1ZNBjEP+VQGVDo20=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: 268s1YVK53uDB2JwbSWdnPBJta0=
+
+Name: res/drawable/previous.png
+SHA1-Digest: tHBhmmOsFZwq4EwD+udGbmw0O9M=
+
+Name: assets/www/css/ionic.app.black.css
+SHA1-Digest: U07IuYyjNjcTxfI7pG/bbjNAc5U=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: xnR0Xbrsa1OUGego/GRPb8wOGQk=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA1-Digest: /nCf0b/1C9vQRp1DAiF2kQNDDOY=
+
+Name: META-INF/com.android.support_support-core-utils.version
+SHA1-Digest: uM3gt0JhpOx5UiNmYZBFT16ThmU=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_pause.png
+SHA1-Digest: NpNJAYieacAMTNb9zwe4EhAwqHw=
+
+Name: assets/www/lib/ionic/scss/_mixins.scss
+SHA1-Digest: dqik4xYKb1k7IZy0LYeyJMg/eVo=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: Tnovl3GT2HHDBF1rlU8FPMsFpFA=
+
+Name: assets/www/lib/ionic/scss/_popup.scss
+SHA1-Digest: x0vjMAfkwa+7nNQns9keWfdzCwE=
+
+Name: res/drawable-hdpi-v4/exo_controls_pause.png
+SHA1-Digest: puo/7dkoax0FfBUf+MVhUZc7puk=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: JIRUfP79NI5t078vJIq/tww/QEA=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA1-Digest: r5WxIK1h2aMaA9QgaHH34Ivs9Ok=
+
+Name: res/drawable-mdpi-v4/exo_controls_repeat_all.png
+SHA1-Digest: OHMkeMCHDooavuF+Ii8D+xzw/hc=
+
+Name: res/drawable-xxhdpi-v4/ic_os_notification_fallback_white_24dp.pn
+ g
+SHA1-Digest: iDesngbAZBxpcvRZ3vb17Xvp5R4=
+
+Name: assets/www/lib/ionic/css/ionic.min.css
+SHA1-Digest: OEb3hUQ2/blI1y62CqVJTWykwgk=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: Mn8aL9cWHMbC4a57BZsDsqT+h94=
+
+Name: res/layout-v17/notification_template_big_media_custom.xml
+SHA1-Digest: m/isJpJv9jPEi4G+KNN4CYBCb9Y=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: YU4qu7TpiL0V6p+PcPUl72okBvM=
+
+Name: res/drawable-hdpi-v4/exo_controls_shuffle.png
+SHA1-Digest: e6ZJLN/O1AruF8IWHgoYW54sG7k=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_repeat_off.png
+SHA1-Digest: VkeCACMX/6iQiLWsmXjs8uMaf3Q=
+
+Name: res/drawable-xxhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: MVD4CdmOqJNUvpTIKqDZ1Vgd5pg=
+
+Name: res/drawable-hdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: norYTkKX9AA8+/rsxITccOy66xw=
+
+Name: res/drawable-port-xxhdpi-v4/screen.png
+SHA1-Digest: +D+yZoGTe4fmfSsUOzcLqAFTnGY=
+
+Name: res/drawable-xhdpi-v4/exo_controls_rewind.png
+SHA1-Digest: xHy0hQia8CUJECqR1nQjJyOYYmc=
+
+Name: assets/www/lib/ionic/scss/_button.scss
+SHA1-Digest: LOO5m7er5rkZgnm6YjwKCdva+Lw=
+
+Name: res/drawable-mdpi-v4/exo_controls_fastforward.png
+SHA1-Digest: StdefyrbgfDYukVocyxwWQmptiM=
+
+Name: res/drawable-xhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: zPP/eWxu3wpvAXpVDPbDK74FSy4=
+
+Name: assets/www/lib/ionic/scss/_toggle.scss
+SHA1-Digest: eZEExU4QnIRJIyPW4rBpeG5l51o=
+
+Name: assets/www/plugins/cordova-plugin-device/www/device.js
+SHA1-Digest: VKPKRnytkVdsV935NdKcV1ltEog=
+
+Name: assets/www/lib/ionic/scss/_modal.scss
+SHA1-Digest: DKw5FE9tIlnimiPVL141E7skl2E=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ _background.9.png
+SHA1-Digest: u+lo2zAc+vOhq5YYjThTkr5jj/A=
+
+Name: assets/www/lib/ionic/scss/_form.scss
+SHA1-Digest: zge3PsG48KuzgVaeuSq4aMk9Kig=
+
+Name: res/drawable-hdpi-v4/exo_controls_previous.png
+SHA1-Digest: DXEr6Fvf0jfoqHNYgWKMGdhks/U=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: hFe7JK4YP/mj0yBDkSd7AHqW/6o=
+
+Name: res/drawable-hdpi-v4/ic_os_notification_fallback_white_24dp.png
+SHA1-Digest: Kej/RTpT435chncxf2wGRUASBsw=
+
+Name: assets/www/lib/ionic/scss/_transitions.scss
+SHA1-Digest: TajbNBpZ4ZO+JY+1ja+6AgF1tC4=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Q3acMTlGj6UQhONPvMrXTfJYYHU=
+
+Name: res/layout/onesignal_bgimage_notif_layout.xml
+SHA1-Digest: yC8UKRcOkFJTjCDdLAzf4Us0jk0=
+
+Name: res/drawable-anydpi-v21/exo_controls_repeat_one.xml
+SHA1-Digest: d0k26oELEPBb+cnFcki1b9YA/xc=
+
+Name: res/drawable-hdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: tsUIg9nBVTG92BH1BobUqlIquIs=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: 6iOfRowCugzNno5bNhHslItU6XQ=
+
+Name: assets/www/lib/ionic/scss/ionicons/_ionicons-font.scss
+SHA1-Digest: 8CmZiR6xF9yyIyYpkADXsFbTSNs=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: SNTsmYRveNKx6utcmknuZASydxE=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: tpziEmx07FluLoMazmwyz01jM0M=
+
+Name: res/drawable-xhdpi-v4/exo_controls_previous.png
+SHA1-Digest: QXTQArOz0N0/C3G9oIs1yXp6Igs=
+
+Name: META-INF/com.android.support_support-v4.version
+SHA1-Digest: Ev7yD154nMwQVqftIMSQwLkX2e4=
+
+Name: res/drawable-xxhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: YRor3DEc2DeqEMKvPf/RsvvmiCY=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: GqlxeUYi9nderviC+XwD6tRD5Kg=
+
+Name: res/drawable-xhdpi-v4/exo_controls_pause.png
+SHA1-Digest: hOQya5d2SuPOv/TKbXFomXL5yh0=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA1-Digest: wU0UmIDTWcYAQ4/XLAYnLZ27tP0=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: iAObpCT8ZcvPwiYM70TBvThrsow=
+
+Name: res/drawable-anydpi-v21/exo_controls_fastforward.xml
+SHA1-Digest: tq2UpiygxOWRwELRYqvv31Qwi3k=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ _background.9.png
+SHA1-Digest: r/qImtNld0slEkSpWzHHH6Q+t30=
+
+Name: assets/www/templates/favoritos.html
+SHA1-Digest: Ol7zrlRmfswnKUBfeE6O+gsXzHM=
+
+Name: res/layout-v17/notification_template_lines_media.xml
+SHA1-Digest: MSvq2zEU7IaJGd3wvuytYjNMIYc=
+
+Name: assets/www/lib/ionic/fonts/ionicons.svg
+SHA1-Digest: B9v0F3lgwTTIB3cO+w21ldNDl5w=
+
+Name: assets/www/lib/ionic/js/ionic-angular.min.js
+SHA1-Digest: s1nxRBEJYItKQWtKKBuTvbjOUj8=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: XzvKamY2eRZwB9QUPtHNggiThsE=
+
+Name: res/drawable-mdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: Vnpfy5LiR9FKEbJbfhhwJLfeeVc=
+
+Name: assets/www/lib/ionic/scss/_variables.scss
+SHA1-Digest: n3Wcw5KYiBXtL/j7TPTeIoKwJu4=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_next.png
+SHA1-Digest: MlYWv1+DtoLna+CNV+hs2d2yS8g=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: 0bVeD7Rh5V1oxp3VCEj7nihNpmQ=
+
+Name: assets/www/js/controllers.js
+SHA1-Digest: SEiH7+WlQE9Jxlfve+Dn0YObsD4=
+
+Name: assets/www/lib/ionic/js/ionic.min.js
+SHA1-Digest: 1HVHu3a6XJglCfRXqKgd/06ZQvs=
+
+Name: res/drawable-anydpi-v21/exo_controls_repeat_all.xml
+SHA1-Digest: GBY5jztX+Eu4zJL1ZWMj5uOGLZU=
+
+Name: assets/www/js/exoplayer.js
+SHA1-Digest: Rl5zj99iFlfnQEzHXgWRhtALUKE=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: sguEdAEIWQMObKTqU3tCraaPELk=
+
+Name: res/drawable-ldpi-v4/exo_controls_shuffle.png
+SHA1-Digest: jYdeu02MtXP5lw9Sqr77Nugj+xc=
+
+Name: assets/www/lib/ionic/scss/_loading.scss
+SHA1-Digest: sZNBUdIOn3aDAjpomQFOI2d3GwA=
+
+Name: res/drawable-hdpi-v4/exo_controls_rewind.png
+SHA1-Digest: UH9fTymM0AHJ/fk4CmxtpCljEfQ=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA1-Digest: WzrxYqbGg0YgoM1RRV/La61RoKw=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: LlibX+wBC4DnoroLe6RHQ1u5S1w=
+
+Name: res/drawable/fastforward.png
+SHA1-Digest: Lp96jm5j9pqh7xDUl6lFPi4Wj0k=
+
+Name: assets/www/lib/ionic/scss/_refresher.scss
+SHA1-Digest: xKCrYRdQ9Al/SZ90HiEYNw0y35E=
+
+Name: res/drawable-mdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: P6pkdlBdYwwjB1aXRr54xrdvpGo=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA1-Digest: vDOKjL5tqAwO+Q1w/Aheh26oT8g=
+
+Name: assets/www/lib/ionic/js/ionic.bundle.min.js
+SHA1-Digest: 1cNSxbxr3AeVQiMJpnsK9paSu5I=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: VLNXFzqJn8hvw7NJ233yGma3RqA=
+
+Name: res/drawable-hdpi-v4/exo_controls_fastforward.png
+SHA1-Digest: gTY23BnOw2Nhbt9lPJ2GckSoCJU=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: AK4r0yNES8a5mQKs1YGjJzYrDA4=
+
+Name: assets/www/lib/ionic/scss/_tabs.scss
+SHA1-Digest: JekNMB50rpxCPiIme++LYHi/WGw=
+
+Name: assets/www/lib/ionic/scss/_bar.scss
+SHA1-Digest: m9yInf3sCv3BgmYU+8DsEGv4Weo=
+
+Name: assets/www/templates/assistidos.html
+SHA1-Digest: sT8D0vSyN+Tpxv9Dly4VNiX9mQE=
+
+Name: res/drawable-xxxhdpi-v4/ic_os_notification_fallback_white_24dp.p
+ ng
+SHA1-Digest: UIsItKDKrtAo0oZ2/NCh7I35guQ=
+
+Name: assets/www/plugins/cordova-plugin-google-analytics/www/analytics
+ .js
+SHA1-Digest: x+tjIL1V6vPOtStGFInd1jhEt+A=
+
+Name: assets/www/js/services.js
+SHA1-Digest: OVBBFRpQnJyPKprZT6fZo0VGIb0=
+
+Name: res/drawable-mdpi-v4/exo_controls_rewind.png
+SHA1-Digest: V/NR1QE9x4bXnp0D9Km6R6hJ1tI=
+
+Name: assets/www/lib/ionic/scss/_grid.scss
+SHA1-Digest: xERsvhANxg3KuZk8fnpsrWvn3X4=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: as3uaqITFqNu98Cp5QQH8mGf+NA=
+
+Name: res/layout-v17/notification_template_media_custom.xml
+SHA1-Digest: eZ46aNzMK/CquV9U4N17A5usNr4=
+
+Name: assets/www/js/app.js
+SHA1-Digest: ETh3/zBAgmXAO3xfSKAwujq4zPQ=
+
+Name: res/drawable-mdpi-v4/ic_os_notification_fallback_white_24dp.png
+SHA1-Digest: /16LwTyNgKnhkpU46qC8JjkV5rE=
+
+Name: assets/www/lib/ionic/js/ionic.js
+SHA1-Digest: hLIcoxFR7ZzQwrg9AuoQ5WmnAuA=
+
+Name: res/drawable-ldpi-v4/exo_controls_previous.png
+SHA1-Digest: /53pv1ztU2wQOVLVb/RTCJ5uCKs=
+
+Name: assets/www/lib/ionic/scss/_type.scss
+SHA1-Digest: amftCNTU8b772vLvr0NzYLBYwRY=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: nmv5U418DLbK/IpqG+mxsvjsH5U=
+
+Name: META-INF/com.android.support_customtabs.version
+SHA1-Digest: m2QBmIngDlGY95qHGRDLHGWWyPI=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA1-Digest: wVG0JhSNZ04sDyBnZta4h5SZOgw=
+
+Name: res/drawable-anydpi-v21/exo_controls_shuffle.xml
+SHA1-Digest: /0fy5t+5ImR5VKAGsTh+xqP5Vvo=
+
+Name: assets/www/index.html
+SHA1-Digest: apIK/6sSEkeHbgglEFBVTaReTes=
+
+Name: res/drawable-anydpi-v21/exo_controls_play.xml
+SHA1-Digest: iPNw8E5s7MEIePwJbut82GNEYXw=
+
+Name: assets/www/lib/ionic/scss/_platform.scss
+SHA1-Digest: 8x06oB+YTI2U/fLnzegxUgumMu0=
+
+Name: res/drawable-xhdpi-v4/exo_controls_repeat_one.png
+SHA1-Digest: kyrqiiBqE7L5E0El0MKN0/2NX4E=
+
+Name: assets/www/lib/ionic/scss/_action-sheet.scss
+SHA1-Digest: Nj1t3HCw/1/EHMVVpXGcsEdh0GU=
+
+Name: assets/www/lib/ionic/scss/_slide-box.scss
+SHA1-Digest: W534f2hpuQegDJZT2XK5u8SOTMo=
+
+Name: assets/www/lib/ionic-filter-bar/bower.json
+SHA1-Digest: X7eW+n/RQY9n+AYOKIIcJnm4Stc=
+
+Name: assets/www/lib/ionic/scss/_progress.scss
+SHA1-Digest: npZTveMYYKigfOOYhCDGPw/PEl8=
+
+Name: res/drawable-ldpi-v4/exo_edit_mode_logo.png
+SHA1-Digest: QDjdg8oiCfuDDZNglrclvH21z0I=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: yFZPKkSmetXtslZFKvEJ32NtGxw=
+
+Name: res/drawable-hdpi-v4/exo_controls_repeat_all.png
+SHA1-Digest: /tGNEMBwZJcVisDuDskl1dvs+wU=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: zMCMiIbF2eFX/7vKg5XphuNjahM=
+
+Name: res/drawable/pause.png
+SHA1-Digest: 5QflZgFVYOg+Lq2Vp8QECZiYBvo=
+
+Name: assets/www/plugins/onesignal-cordova-plugin/www/OneSignal.js
+SHA1-Digest: v1W8oO6U1k6R5DGZWXQH79I/Q+I=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: cJgkuq9nb7HT94VpdSezb7a02HE=
+
+Name: res/drawable-mdpi-v4/exo_controls_previous.png
+SHA1-Digest: 1Do/PauAE6hqftrayxLQA6Su19M=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA1-Digest: n+egAqL4AYmFt/aG1kT5XTiCc4g=
+
+Name: assets/www/lib/ionic/scss/ionicons/ionicons.scss
+SHA1-Digest: ltG1c031YLvdu7h31t1IO5Fs7z4=
+
+Name: assets/www/templates/animescategoria.html
+SHA1-Digest: UC4dpHWj9GUO+FWz6pfe9I8eUd8=
+
+Name: res/drawable-anydpi-v21/exo_controls_rewind.xml
+SHA1-Digest: ppGpNPzqpKmAD128f63B1sVE6O0=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: dyDiL4ZG7Sgqc/Yu+ppuW94I7jU=
+
+Name: res/mipmap-xxhdpi-v4/icon.png
+SHA1-Digest: dVvEeaj3r5tUlr6g10BtR9CPWLs=
+
+Name: assets/www/templates/dublados.html
+SHA1-Digest: rsyiyz5MMv6e4F+sql8CVHayWH4=
+
+Name: assets/www/lib/ionic/scss/_button-bar.scss
+SHA1-Digest: QQhQcveMUd8pDCzL5sanSokYR/8=
+
+Name: res/drawable-mdpi-v4/exo_controls_next.png
+SHA1-Digest: vRXseWxFYd85Y1Rpy9Gc41aMTV0=
+
+Name: res/drawable-xhdpi-v4/exo_controls_repeat_off.png
+SHA1-Digest: BAAzhdePNcDzLhDUrc7t1ss4yw0=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: F22WeiybN3Bk2eU6PSntJL0hK7s=
+
+Name: assets/www/templates/lancamentos.html
+SHA1-Digest: r9NYkOMh31Kx7C9NNyDP5w8bBCQ=
+
+Name: res/drawable-hdpi-v4/exo_controls_next.png
+SHA1-Digest: u2kLHxGePkpxV0TgKKOEFRemDeo=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: 7FkGWmq+DlD0TDiwId3IZItwIW4=
+
+Name: assets/www/lib/ionic/fonts/ionicons.eot
+SHA1-Digest: DQ9yqCPdIE3LxZi52GEt4kCOrkA=
+
+Name: res/mipmap-xxxhdpi-v4/icon.png
+SHA1-Digest: 2ymC/o1ElGaaRfxcukmKReUS2PA=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: oRI2hfON4+8Bpr+zT62+NTFLukY=
+
+Name: assets/www/lib/ionic/scss/_select.scss
+SHA1-Digest: 1wSLwtjrj6dJ/YjCdb76e6k1ZS0=
+
+Name: assets/www/templates/episodios.html
+SHA1-Digest: Qnl4w5EtZAl9AFMGQUrzvX/lHHU=
+
+Name: META-INF/com.android.support_support-compat.version
+SHA1-Digest: t7LFgXv4380l2LckIE3OpepTmCQ=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: PRFShkB+qWBkTIhviI83c5IlCYc=
+
+Name: assets/www/lib/ionic/README.md
+SHA1-Digest: pZXypy6wTIwbKBxhhubfnhxBD30=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA1-Digest: IFXM25FYNaJUEP0rajABdM3cq/k=
+
+Name: res/layout/exo_simple_player_view.xml
+SHA1-Digest: r7pCpLRlBAdaRhhuaX9u1rboWiY=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: aQoFWERyto3dl5kdyl5DhdiZOk8=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: /BS7iGgQdMB19Q9MM2defDYWYQc=
+
+Name: res/drawable/play.png
+SHA1-Digest: UyahDcd+YldoUGH0VOLdH3OufbE=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: 7xXKRABmVs9G72W7mLIK9dPACkQ=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: lCV857pcJ26PQNNngb0KFgyGBLQ=
+
+Name: assets/www/lib/ionic-filter-bar/dist/ionic.filter.bar.min.js
+SHA1-Digest: QYkXqlGq+m3YBwuHW3PbjbvaLUo=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: rBi3K1tEN6jx+AFVYiRunbdHRwQ=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: NSgyq7fWSyzsya9yuG+uYcAMk7M=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: WMSkc0u+fBApAiUe86W9D5KufB4=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: SMhh5UMhXjCx2y+LJCtPfbkeXUw=
+
+Name: assets/www/css/ionic.app.css
+SHA1-Digest: i3OajmI8wEF/kUkEj2gq72wbN1Q=
+
+Name: res/drawable-anydpi-v21/exo_controls_previous.xml
+SHA1-Digest: 8g/h3Jzjz3lgpR2b8u73gR8Uun8=
+
+Name: res/drawable-xxxhdpi-v4/exo_edit_mode_logo.png
+SHA1-Digest: HOKiTEMprHF1ZHUR1/bP9C0ts3Q=
+
+Name: res/layout/notification_template_custom_big.xml
+SHA1-Digest: HvgEYdFjGdgnU0z/yzZHAg3T3eE=
+
+Name: assets/www/lib/ionic/scss/_animations.scss
+SHA1-Digest: wmBwh9FUHZgZhVh5eZIa++SY8G4=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA1-Digest: WPuzX2mN+o9Ytnx/jvQfoZYjdas=
+
+Name: res/drawable-anydpi-v21/exo_edit_mode_logo.xml
+SHA1-Digest: D3/oIDXQNcvujRzXIHNfS9zaOfU=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_fastforward.png
+SHA1-Digest: NH0BGMOBA5PnSBps8fF+6BTHQzM=
+
+Name: assets/www/lib/ionic/fonts/ionicons.woff
+SHA1-Digest: VIfznJpw+29jAG1niK/tTqSoP2o=
+
+Name: assets/www/lib/ionic/scss/_badge.scss
+SHA1-Digest: EzEoFDV56Rfi8nzbSshkA9J9O7k=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_repeat_one.png
+SHA1-Digest: oBbZ7rmLnvG3scxZPx1UrNdVhz8=
+
+Name: assets/www/lib/ionic-filter-bar/dist/ionic.filter.bar.js
+SHA1-Digest: ApTifBHu8AfzKVqVY4LYYi2kEd4=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: 2kfDwDB5ix/GBnwME0dT5FI9hkA=
+
+Name: res/drawable-ldpi-v4/exo_controls_pause.png
+SHA1-Digest: F6EcCvHyma9Az8u+8icxqlpApbE=
+
+Name: res/layout-v17/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: Ijb6uPUGodIsDLew5Z+PfLlKsJw=
+
+Name: res/drawable-xhdpi-v4/exo_controls_repeat_all.png
+SHA1-Digest: qzVKYGGh+tobrKF+pvnpRufD+Cs=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: pjofmdh3Hmxk5F1Hl494Xp7DsPs=
+
+Name: assets/www/lib/ionic/scss/_popover.scss
+SHA1-Digest: Ik7Dm+9kN9IIdqMidtUrrL/Mc6Y=
+
+Name: res/layout-v21/exo_simple_player_view.xml
+SHA1-Digest: Y3fsL9pnLsySX/np9Cl8nBBfkUA=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: QUnWHQwyoUWDxEgcNX1AZabI4gA=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: Si+RwjkYgrBJ+jQlAlRsOt/0i1Q=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: sZI/MrQgBXh2aJFcQWzZXWRcBz0=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA1-Digest: x1lOF9TADfU5Vt2D7vY97ELhBEM=
+
+Name: res/drawable-xhdpi-v4/exo_controls_fastforward.png
+SHA1-Digest: BwkXdnQYBXK9At4TQELroMQ598U=
+
+Name: META-INF/com.android.support_support-core-ui.version
+SHA1-Digest: WnT8f+rKpYNlaL3pLqRCNhE7/g0=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: C2cQxIiD3ntzFc2ymMtaIbqr4ek=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA1-Digest: bWPgKxZ9ApmuepzyP5YDrVWDndE=
+
+Name: assets/www/lib/ionic/scss/_checkbox.scss
+SHA1-Digest: Z1XhBpu6cFF2fwcr3erypnG7SW8=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: tLTtgWwmC52vFV8WmsQe/d9txW4=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l_background.9.png
+SHA1-Digest: qAdyQ219E8/ps2Er5WJveMTTuIY=
+
+Name: res/drawable-hdpi-v4/exo_controls_play.png
+SHA1-Digest: SpbyINRzSR1YyEHjOavtEgqQKwI=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: MX6GXAytjib6JuPSa1R/jhicNTA=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: rPKbb20RGbvShI5/3oDbpeRZyYE=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: w9UEb1aQSTtznc1obXSXiIGPKBA=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: afWNkbu793sZq6Nh70c47hi8pOc=
+
+Name: res/drawable-ldpi-v4/exo_controls_repeat_all.png
+SHA1-Digest: lmQz6q7H85rcy8rEKRdV63hDpWg=
+
+Name: res/drawable-xhdpi-v4/exo_edit_mode_logo.png
+SHA1-Digest: QxX3TwVBu+fxV+XCca3iaeXn+sg=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: TxK5MoF9j1UDEuC817jw+qjxl3E=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ _background.9.png
+SHA1-Digest: rGGJV1fWN8vFtZEOAI/Z22CkJPE=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ _background.9.png
+SHA1-Digest: E3b8zCKS17GRMez6fcytwmsN4LA=
+
+Name: assets/www/templates/populares.html
+SHA1-Digest: l7Z1ERn8fKe+FL4NAJAwcgd2o0k=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_
+ background.9.png
+SHA1-Digest: /ZnjUh1VaBtC12hx+hN6cfnuB9Q=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: oXhMxqCdTU9FU0k6ZW87SKaXIv4=
+
+Name: META-INF/com.android.support_support-media-compat.version
+SHA1-Digest: dt/O00IEWE5yKSMg2mLXvmn/cv4=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: OhLLycJtn4RVaCv8gQH/VLgSgXg=
+
+Name: assets/www/lib/ionic/scss/_util.scss
+SHA1-Digest: p6Hhl60eyvQ7uiXwlOoktivUjsk=
+
+Name: res/drawable-xhdpi-v4/exo_controls_play.png
+SHA1-Digest: E7KLm7LmsGvOO93bO0H4vKTc5pQ=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_play.png
+SHA1-Digest: s0/dg47IlEp3Av4QN3QuVZ+qadc=
+
+Name: res/drawable-anydpi-v21/exo_controls_next.xml
+SHA1-Digest: Eja0/KJx6GdGgjbEXB46DlFnyfw=
+
+Name: build-data.properties
+SHA1-Digest: SBxJcAdq3bvZlwAzxtmKazpsBPE=
+
+Name: assets/www/templates/animeinfo.html
+SHA1-Digest: Gp50LCVd5aRGO83yLebMGb8MRv8=
+
+Name: res/drawable-xxhdpi-v4/exo_controls_repeat_all.png
+SHA1-Digest: VIInoyR2LMz5+K0lqM2yk8+FomM=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: vstvPTVFRfUQ+lrJFTbqBEj9fAs=
+
+Name: res/layout-v17/exo_playback_control_view.xml
+SHA1-Digest: J3DaTfpDasNh2UUz23MBoh4T4Ls=
+
+Name: res/drawable-ldpi-v4/exo_controls_repeat_one.png
+SHA1-Digest: fQWKIBu5wNwBKXc4yWqGG4vCXbA=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA1-Digest: aDx4MPa/J9b15G/bB/ExIn7v7k8=
+
+Name: assets/www/lib/ionic/scss/_reset.scss
+SHA1-Digest: F0HoY7GRW5C4C8wqXtgvLOu1fhE=
+
+Name: res/drawable/rewind.png
+SHA1-Digest: Z4FnJR9ftv5/hwkFpel4AuflApk=
+
+Name: assets/www/lib/ionic/scss/_scaffolding.scss
+SHA1-Digest: N1nkIzAAoHG4p+i1Vx7/xkumFh4=
+
+Name: res/layout/exo_rounded_corners.xml
+SHA1-Digest: 5JfaOUIkSkWCS26ytjzgv1ZCGns=
+
+Name: res/drawable-hdpi-v4/exo_edit_mode_logo.png
+SHA1-Digest: m2GnmvGPwLUdrMCQwOFfmZhTMck=
+
+Name: assets/www/plugins/cordova-plugin-ionic-keyboard/www/android/key
+ board.js
+SHA1-Digest: Wm6Ih4mVSiQhCLpVYYbDpcP2QYM=
+
+Name: res/drawable-xxhdpi-v4/exo_edit_mode_logo.png
+SHA1-Digest: j9fjyCFXq0v1ZxX+G8BHYgelzlg=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: hlGgjwCibYSJn0dDvquLScOoXss=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ZJ/oYlTIErS2TxMFPSw7UGRmRS0=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: wLPDUFUTKd6gPEZ8AVEmiKJKyuk=
+
+Name: assets/www/templates/letras.html
+SHA1-Digest: ArivdB8zbleGpK7O2f82tO1V7Xg=
+
+Name: classes.dex
+SHA1-Digest: E7/sRuGXZg1Jw7InA8JQramwyEU=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: c5f+iD+5NWV0zWxwzUyh+V+QpkY=
+

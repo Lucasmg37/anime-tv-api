@@ -1,0 +1,18 @@
+<ion-view title="Animes" id="page6">
+
+  <ion-nav-buttons side="secondary">
+    <button class="button button-icon icon ion-ios-search-strong" ng-click="showFilterBar()">
+    </button>
+  </ion-nav-buttons>
+
+    <ion-content padding="false" class="has-header">
+        
+        <ion-list>
+            <ion-item class="item-thumbnail-left item-text-wrap" ui-sref="animeinfo({id: anime.id})" ng-repeat="anime in animes">
+                <img ng-src="https://cdn.appanimeplus.tk/img/{{::anime.category_image}}" />
+                <h2>{{::anime.category_name}}</h2>
+            </ion-item>
+        </ion-list>
+        
+    </ion-content>
+</ion-view>

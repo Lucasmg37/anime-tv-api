@@ -1,0 +1,27 @@
+<ion-view title="Noticias" id="page5">
+  <ion-content padding="true" class="has-header">
+    <div class="card" ng-repeat="noticia in noticias" >
+      <div class="item item-text-wrap">{{::noticia.titulo}}</div>
+      <div class="item item-text-wrap">
+        <p>Postado em: {{noticia.data | dateToISO | date: 'dd/MM/yyyy'}}</p>
+        <div ng-bind-html="noticia.conteudo"></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="item item-divider item-text-wrap item-positive">Noticias de Animes</div>
+      <div class="item item-text-wrap">
+        <p>Postado em: 30/08/2018</p>
+        Para ver noticias anteriores e ficar sempre ligado sobre os novos animes, novas temporadas, produções e tendências do mundo otaku e geek. Tudo em único aplicativo com atualizações diárias simples e eficaz.<br />
+        <br />
+        * Noticias de animes, mangas, games, cinema.<br />
+        * Atualizações diárias<br />
+        * Favoritar noticias e categorias<br />
+        * Comentar noticias<br />
+        * Receber notificações<br />
+        <br />
+		Clique no link abaixo para ser direcionado para a play store:<br />
+        <a href="https://play.google.com/store/apps/details?id=com.app.animefans">https://play.google.com/store/apps/details?id=com.app.animefans</a>           
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

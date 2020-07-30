@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:id="@id/exo_buttons" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/exo_rew" android:background="@layout/exo_rounded_corners" style="@style/Exo.Rewind" />
+        <ImageButton android:id="@id/exo_play" android:background="@layout/exo_rounded_corners" style="@style/Exo.Play" />
+        <ImageButton android:id="@id/exo_pause" android:background="@layout/exo_rounded_corners" style="@style/Exo.Pause" />
+        <ImageButton android:id="@id/exo_ffwd" android:background="@layout/exo_rounded_corners" style="@style/Exo.FastForward" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom" android:orientation="horizontal" android:background="@layout/exo_rounded_corners" android:paddingLeft="@dimen/padding" android:paddingTop="@dimen/padding" android:paddingRight="@dimen/padding" android:paddingBottom="@dimen/padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="48.0dip" android:layout_marginRight="48.0dip" android:layout_marginBottom="48.0dip">
+        <ImageView android:gravity="center_vertical" android:id="@id/exo_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="centerInside" android:adjustViewBounds="true" android:maxWidth="144.0dip" android:maxHeight="86.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom" android:orientation="vertical" android:paddingLeft="@dimen/padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="28.0dip" android:textStyle="bold" android:textColor="@color/foreground_color" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/exo_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+            <TextView android:textSize="20.0dip" android:textStyle="bold" android:textColor="@color/foreground_color" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/exo_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/exo_timebar" android:paddingTop="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="20.0dip" android:textStyle="bold" android:textColor="@color/foreground_color" android:id="@id/exo_position" android:paddingRight="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+                <com.google.android.exoplayer2.ui.DefaultTimeBar android:id="@id/exo_progress" android:layout_width="0.0dip" android:layout_height="26.0dip" android:layout_weight="1.0" app:buffered_color="#ffbebebe" app:played_color="@color/foreground_color" />
+                <TextView android:textSize="20.0dip" android:textStyle="bold" android:textColor="@color/foreground_color" android:id="@id/exo_duration" android:paddingLeft="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,25 @@
+<ion-view title="Pesquisar" id="page36">
+    <ion-content padding="true" class="has-header">
+
+<p>Encontre animes nessa função, pesquise sempre por palavras chaves, por exemplo: Se você quer encontrar Cavaleiros do Zodiaco, digite Cavaleiros ou então Zodiaco, evite escrever o nome completo do anime caso o mesmo seja composto.</p>
+
+        <form class="list">
+            <label class="item item-input">
+              <i class="icon ion-search placeholder-icon"></i>
+              <input type="text" name="pesquisa" ng-model="pesquisa" placeholder="Dragon Ball">
+            </label>
+            <button ng-click="buscar(pesquisa)" class="button button-block button-positive">Buscar</button>
+        </form>
+
+
+        <ion-list>
+            <ion-item class="item-thumbnail-left item-text-wrap" collection-repeat="anime in resultados" ui-sref="animeinfo({id: anime.id})">
+                <img ng-src="https://cdn.appanimeplus.tk/img/{{anime.category_image}}" />
+                <h2>{{anime.category_name}}</h2>
+            </ion-item>
+        </ion-list>
+
+        <div ng-bind-html="mensagem"></div> 
+
+    </ion-content>
+</ion-view>

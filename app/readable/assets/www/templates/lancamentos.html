@@ -1,0 +1,14 @@
+<ion-view title="Lancamentos">   
+    <ion-content padding="false" class="has-header">
+    
+    <div ng-bind-html="msg"></div>
+
+        <ion-list>
+            <ion-item class="item-thumbnail-left item-text-wrap" collection-repeat="lancamento in ultimos" ui-sref="episodios({id: lancamento.video_id})">
+                <img ng-src="https://cdn.appanimeplus.tk/img/{{lancamento.category_image}}" />
+                <h2>{{lancamento.title}}</h2>
+            </ion-item>
+        </ion-list>
+    
+    </ion-content>
+</ion-view>
