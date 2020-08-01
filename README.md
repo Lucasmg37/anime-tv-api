@@ -126,7 +126,7 @@ interface Anime {
 }[]
 ```
 
-Todas as categorias disponíveis [podem ser vistas neste arquivo.](/CATEGORIAS.md)    
+Todas as categorias disponíveis [podem ser vistas neste arquivo.](/CATEGORIES.md)    
 
 **Limitações: não há paginação, assim como na primeira. Portanto a quantidade de animes da resposta não é fixo, por exemplo, no momento que estou testando, a categoria `dublado` retornou 340 animes; já a categoria `sci-fi` retornou 562.**
 
