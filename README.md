@@ -16,7 +16,7 @@
 <br>
 
 ## Considerações
-As limitações foram concluídas somente olhando e testando os endpoints do código fonte do aplicativo **portanto pode estar errada.** Então se quiser checar você mesmo, e tentar descobrir se a limitação está incorreta, sinta-se totalmente à vontade, todo o código que utilizei de base está na pasta `/app` deste repositório.
+As limitações foram concluídas somente olhando e testando os endpoints do código fonte do aplicativo **portanto é possível que essas conclusões estejam incorretas.** Então se quiser checar você mesmo, e tentar descobrir se a limitação está incorreta, sinta-se totalmente à vontade, todo o código que utilizei de base está na pasta `/app` deste repositório.
 
 ## Documentação
 
