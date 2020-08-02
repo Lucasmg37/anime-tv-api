@@ -29,6 +29,7 @@ As limitações foram concluídas somente olhando e testando os endpoints do có
 6. [Buscar os dados de Streaming de um episódio](#6-buscar-os-dados-de-streaming-de-um-episódio)
 7. [Buscar os dados de um anime pelo nome](#7-buscar-os-dados-de-um-anime-pelo-nome)
 8. [Buscar os detalhes de um anime](#8-buscar-os-detalhes-de-um-anime)
+9. [Buscar os animes mais populares](#9-buscar-os-animes-mais-populares)
 
 ### 1. Iniciando
 1. Tenha em mente que todas as requisições devem ser feitas usando query params, ou seja, usando o ponto de interrogação, exemplo: `?endpoint=abc`  
@@ -357,3 +358,48 @@ interface Detalhes {
   off: string,
 }[]
 ```
+
+<br>
+
+### 9. Buscar os animes mais populares
+Para buscar uma lista com os animes mais populares utilize o endpoint:
+```
+https://appanimeplus.tk/api-achance.php?populares
+```
+
+O retorno da requisição:
+```js
+[
+  {
+    "id": "111",
+    "category_name": "Naruto Shippuden (Naruto Shippuuden)",
+    "category_image": "698d51a19d8a121ce581499d7b701668.jpg"
+  },
+  {
+    "id": "2684",
+    "category_name": "Boruto: Naruto Next Generations",
+    "category_image": "7c4bf50b715509a963ce81b168ca674b.jpg"
+  },
+  { .... }
+]
+```
+
+Nota: a quantidade de animes retornada pode mudar no futuro, mas neste momento o endpoint retorna 50 animes
+
+Explicação da resposta:
+```
+id: ID do anime
+category_name: título/nome do anime
+category_image: nome único da imagem da capa do anime (pode retornar 404, a API é inconsistente)
+```
+
+Formato da resposta:
+```ts
+interface Detalhes {
+  id: string,
+  category_name: string,
+  category_image: string,
+}[]
+```
+
+**Limitações: A lista não é muito atualizada, não tem bastante precisão e não possui paginação**
